@@ -40,7 +40,6 @@ scikit-learn
 # openvino-dev  # OpenVINO export
 
 # Deploy --------------------------------------
-setuptools>=65.5.1 # Snyk vulnerability fix
 # tritonclient[all]~=2.24.0
 
 # Extras --------------------------------------
